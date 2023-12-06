@@ -1,28 +1,65 @@
-![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
-<h1 align="center">Hi 👋, I'm Jocsan Ramirez Chaves</h1>
-<h3 align="center">System engineer in progress, passionate about innovation and technology. I love learning new technologies and working on exciting project.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEyYWIzNzVjNjRiYjc1MWNhMWJmMDUzNGIzMGY4OGM3NGNkYjgyYyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" src="https://komarev.com/ghpvc/?username=jocscriptch&label=Profile%20views&color=0e75b6&style=flat" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jocscriptch&label=Profile%20views&color=0e75b6&style=flat" alt="jocscriptch" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=C893EB&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Jocsan+Ram%C3%ADrez+Chaves!" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <a href="https://twitter.com/jocsanrch" target="blank"><img src="https://img.shields.io/twitter/follow/jocsanrch?logo=twitter&style=for-the-badge" alt="jocsanrch" /></a> </p>
+<h3 align="center">A passionate information systems engineer from Costa Rica. <br/>
+                  I love learning new technologies and working on exciting project.</h3>
+<br/>
 
-- 🌱 I’m currently learning **React, NodeJS and Python**
+<div align="center">
+  
+🌱 I’m currently learning **Docker, Flutter, Dart, Python**
+  
+💬 Ask me about **C++, Java, React, Next.js Firebase...**
 
-- 💬 Ask me about **Java, C++**
+⚡ Fun fact **Rasmodius is Abigail's father in Stardew Valley.**
 
-- 📫 How to reach me **jocsanchaves20@gmail.com**
+ </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jocsanrch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jocsanrch" height="30" width="40" /></a>
-</p>
+ 
+<div align="center"> 
+  <a href="mailto: jocsan.ramirez.chaves@est.una.ac.cr">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/jocsan-ramirez-chaves/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://website-portfolio-tailwind-css-react-framer-motion-next.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+ <hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+ <h2 align="center">⚙️Languages-Frameworks-Tools⚙️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,vercel,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,react,nextjs,fortran,cpp,java,maven,idea,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=latex,netlify,vite,processing,firebase,mongodb,mysql,postgres,vscode,visualstudio" /><br>
+</div>
+<br/>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocscriptch&show_icons=true&locale=en&layout=compact" alt="jocscriptch" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jocscriptch&theme=nightowl&border_radius=10&card_width=500" alt="GitHub Streak" /></a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true" />
+</picture>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true&locale=en" alt="jocscriptch" /></p>
+<br/><br/>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jocscriptch&" alt="jocscriptch" /></p>
+
