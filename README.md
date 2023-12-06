@@ -18,7 +18,6 @@
 
  </div>
 
- 
 <div align="center"> 
   <a href="mailto: jocsan.ramirez.chaves@est.una.ac.cr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
