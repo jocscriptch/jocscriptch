@@ -57,7 +57,7 @@
     <a href="https://git.io/streak-stats">
         <img width="390" src="https://streak-stats.demolab.com?user=jocscriptch&theme=react&border_radius=10&card_width=400" alt="GitHub Streak" />
     </a>
-    <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocscriptch&layout=compact&theme=react&langs_count=8&card_width=300" />
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocscriptch&layout=compact&theme=react&langs_count=8&card_width=325" />
 </div>
 <br/><br/>
 <hr/>
