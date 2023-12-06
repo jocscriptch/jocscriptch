@@ -48,16 +48,16 @@
     <a href="https://git.io/streak-stats">
         <img width="400" src="https://streak-stats.demolab.com?user=jocscriptch&theme=react&border_radius=10&card_width=400" alt="GitHub Streak" />
     </a>
-    <picture>
+    <picture width="100">
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true&theme=react&rank_icon=github&border_radius=10&w=400"
             media="(prefers-color-scheme: dark)"/>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true&w=400"
             media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true&w=400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true&w=400" />
     </picture>
-    <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocscriptch&layout=compact&theme=react&langs_count=8&card_width=300" />
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocscriptch&layout=compact&theme=react&langs_count=8&card_width=300" />
 </div>
 
 
