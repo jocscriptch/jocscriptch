@@ -45,18 +45,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jocscriptch&theme=nightowl&border_radius=10&card_width=500" alt="GitHub Streak" /></a>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true" />
-</picture>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jocscriptch&theme=react&border_radius=10&card_width=470" alt="GitHub Streak" /></a>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true"
+            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jocscriptch&show_icons=true" />
+    </picture>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocscriptch&layout=compact&theme=react&langs_count=8&card_width=470" />
 </div>
 
 <br/><br/>
