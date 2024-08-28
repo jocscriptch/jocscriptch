@@ -10,9 +10,9 @@
 
 <div align="center">
   
-🌱 I’m currently learning **Docker, Flutter, Dart, Python**
+🌱 I’m currently learning **Docker, Astro.js, Python**
   
-💬 Ask me about **C++, Java, React, Next.js Firebase...**
+💬 Ask me about **C++, Java, Flutter...**
 
 ⚡ Fun fact **Rasmodius is Abigail's father in Stardew Valley.**
 
@@ -31,12 +31,12 @@
 </div>
  <hr/>
 
- <h2 align="center">⚙️Languages-Frameworks-Tools⚙️</h2>
+ <h2 align="center">⚙️Knowledge⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,vercel,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=php,nodejs,react,nextjs,fortran,cpp,java,maven,idea,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=latex,netlify,vite,processing,firebase,mongodb,mysql,postgres,vscode,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,flutter,linux,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=latex,firebase,mongodb,mysql,postgres,vscode,visualstudio,idea,pycharm" /><br>
 </div>
 <br/>
 <hr/>
