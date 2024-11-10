@@ -34,9 +34,7 @@
  <h2 align="center">⚙️Knowledge⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=cpp,java,flutter,linux,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=latex,firebase,mongodb,mysql,postgres,vscode,visualstudio,idea,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,php,react,nextjs,astro,cpp,java,py,dart,flutter,mysql,postgres,sqlite,mongodb,firebase,linux,latex,processing,vercel,git,github,vscode,visualstudio,pycharm,idea"/>
 </div>
 <br/>
 <hr/>
